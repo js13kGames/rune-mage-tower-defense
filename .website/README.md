@@ -1,4 +1,8 @@
 ---
+genres:
+  - tower-defense
+  - strategy
+  - puzzle
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
